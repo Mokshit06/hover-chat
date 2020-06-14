@@ -1,4 +1,4 @@
-# Hyper Chat
+# Hover Chat
 
 A Messaging App built using **Node.js**, **Socket\.io** and **MongoDB**.
 
